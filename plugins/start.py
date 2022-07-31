@@ -94,8 +94,7 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴 ❣️", url="https://t.me/ajay_king_x")
                ],[
-               InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴 🔒", callback_data = "close"),
-               InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺 ◀️", callback_data = "start")
+               InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴 🔒", callback_data = "close")
                ]]
             )
         )
@@ -109,8 +108,7 @@ async def cb_handler(client, query: CallbackQuery):
                ],[
                InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 🖥️", url="https://t.me/ajay_king_x")
                ],[
-               InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴 🔒", callback_data = "close"),
-               InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺 ◀️", callback_data = "start")
+               InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴 🔒", callback_data = "close")
                ]]
             )
         )
@@ -123,8 +121,7 @@ async def cb_handler(client, query: CallbackQuery):
                ],[
                InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 🖥️", url="https://t.me/ajay_king_x")
                ],[
-               InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴 🔒", callback_data = "close"),
-               InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺 ◀️", callback_data = "start")
+               InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴 🔒", callback_data = "close")
                ]]
             )
         )
